@@ -1,5 +1,6 @@
 # E-commerce Sales and Customer Behavior Analysis
 Tools: SQL, Power BI
+
 Description: Revenue trends, repeat purchases, seller performance, and cancellation rates.
 ## Key tasks
 - Analyzed e‑commerce data across seven related tables to study orders, customers, products, sellers, payments, and reviews.
