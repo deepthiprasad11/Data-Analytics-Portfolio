@@ -1,5 +1,6 @@
 # Patient Encounter Cost and Risk Analysis in Healthcare Systems
 Tools: SQL, Power BI
+
 Description: Analysis of healthcare encounters, procedure costs, payer coverage and risk patterns.
 ## Key tasks:
 - Performed SQL queries for data cleaning, joining multiple tables, and aggregating key metrics.
